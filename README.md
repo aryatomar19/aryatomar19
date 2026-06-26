@@ -1,35 +1,129 @@
-<h1 align="center">Hi 👋, I'm aryavarth</h1>
-<h3 align="center">A passionate Cloud Computing And Big Data student</h3>
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+<h1 align="center">Hi 👋, I'm Aryavarth</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aryatomar19&label=Profile%20views&color=0e75b6&style=flat" alt="aryatomar19" /> </p>
+<h3 align="center">
+DevOps Engineer | AWS Cloud | Docker | Linux | CI/CD | Monitoring
+</h3>
 
-- 🌱 I’m currently learning **Cloud Computing, AWS, Linux, Git, Kubernetes**
-
-- 📫 How to reach me **aryavarth19@gmail.com**
-
-- ⚡ Fun fact **i am funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@aryatomar13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@aryatomar13" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/arya varth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arya varth" height="30" width="40" /></a>
-<a href="https://instagram.com/aryatomar19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aryatomar19" height="30" width="40" /></a>
+<p align="center">
+Building scalable cloud infrastructure, automating deployments, and solving production issues.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aryatomar19&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aryatomar19&show_icons=true&locale=en" alt="aryatomar19" /></p>
-- 👋 Hi, I’m @aryatomar19
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<img align="right" alt="DevOps" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
-<!---
-aryatomar19/aryatomar19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+# 🚀 About Me
+
+- 💼 DevOps Engineer with **1 year of hands-on experience**
+- ☁️ Experienced with **AWS Cloud Infrastructure**
+- 🐳 Working with **Docker & Docker Compose**
+- ⚙️ Building **CI/CD pipelines using Jenkins**
+- 🌐 Configuring **Nginx Reverse Proxy & SSL**
+- 📊 Monitoring infrastructure with **Prometheus, Grafana & CloudWatch**
+- 🐧 Linux System Administration & Troubleshooting
+- 🚀 Passionate about Cloud, DevOps and Automation
+- 🌱 Currently expanding my knowledge in **Kubernetes, Terraform and GitOps**
+
+---
+
+# 🛠️ Tech Stack
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=aws" height="45"/>
+
+<img src="https://skillicons.dev/icons?i=docker" height="45"/>
+
+<img src="https://skillicons.dev/icons?i=linux" height="45"/>
+
+<img src="https://skillicons.dev/icons?i=git" height="45"/>
+
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
+
+<img src="https://skillicons.dev/icons?i=jenkins" height="45"/>
+
+<img src="https://skillicons.dev/icons?i=kubernetes" height="45"/>
+
+<img src="https://skillicons.dev/icons?i=terraform" height="45"/>
+
+<img src="https://skillicons.dev/icons?i=python" height="45"/>
+
+<img src="https://skillicons.dev/icons?i=bash" height="45"/>
+
+</p>
+
+---
+
+# 💼 Professional Experience
+
+Over the past year I have worked on real-world DevOps tasks including:
+
+- ☁️ AWS Infrastructure (EC2, ECS, ECR, IAM, VPC, ALB, CloudWatch)
+- 🐳 Docker & Docker Compose
+- ⚙️ Jenkins CI/CD Pipeline Automation
+- 🌐 Nginx Reverse Proxy Configuration
+- 📊 Prometheus, Grafana, Loki & CloudWatch Monitoring
+- 🐧 Linux Server Administration
+- 🔒 SSL, DNS & Production Deployments
+- 🚀 Application Deployment & Troubleshooting
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=aryatomar19&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryatomar19&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aryatomar19&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📚 Currently Learning
+
+- Kubernetes
+- Terraform
+- GitOps
+- ArgoCD
+
+---
+
+# 📫 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-URL/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:aryavarth19@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/aryatomar19">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 💡 DevOps Philosophy
+
+> **"Automate repetitive tasks, monitor everything, and keep learning every day."**
+
+---
+
+<h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
