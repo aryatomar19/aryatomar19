@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="./github_banner.png" alt="GitHub Banner" width="100%">
+</p>
+
+<br>
+
 <h1 align="center">Hi 👋, I'm Aryavarth</h1>
 
 <h3 align="center">
